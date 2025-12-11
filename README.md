@@ -2,7 +2,7 @@
 
 **RUNIO** is an engaging 2D platformer game built using the **Flutter/Flame** framework. This project demonstrates advanced mobile development skills by integrating a dedicated **ASP.NET Core API** to manage a global high-score leaderboard in real-time.
 
-![RUNIO Gameplay Screenshot - 2D Platformer](assets/openGame.png)
+<img src="assets/openGame.png" alt="RUNIO - Gameplay Screenshot" width="600"/>
 
 ## 🌟 Key Features
 
